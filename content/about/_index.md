@@ -1,11 +1,11 @@
 ---
 academia:
 - course:
-    degree: Ph.D.
-    institution: University of Melbourne
-    major: Ecological Modeling
-    start_date: "2018"
-    end_date: "2023"
+    degree: MSc
+    institution: Jahangirnagar University
+    major: Wildlife Ecology
+    start_date: "2019"
+    end_date: "2020"
 - course:
     degree: M.Phil.
     institution: University of Melbourne
